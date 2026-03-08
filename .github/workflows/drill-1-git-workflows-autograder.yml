@@ -1,9 +1,6 @@
 name: drill-1-git-workflows Autograder
 
 on:
-  push:
-    branches-ignore:
-      - main
   pull_request:
     branches:
       - main
